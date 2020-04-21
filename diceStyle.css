@@ -1,0 +1,38 @@
+body {
+  font-family: 'Khula', sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+.container {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.card {
+  display: inline-block;
+  text-align: center;
+  width: 250px;
+}
+
+img {
+  width: 50px;
+}
+
+.winner {
+  background-color: #B2F78C;
+  }
+.tie {
+  background-color: #F2F2F2;
+}
+
+button {
+  background-color: #B2F78C;
+  border: 0px;
+  border-radius: 12px;
+  display: block;
+  margin: 20px auto;
+  padding: 10px 20px;
+}
